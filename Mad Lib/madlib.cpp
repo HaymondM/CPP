@@ -1,7 +1,6 @@
 /***********************************************************************
 * Program:
 *    Project 10, Mad Lib Program
-*    Brother Comeau, CS124
 * Author:
 *    Marshall Haymond
 * Summary: 
