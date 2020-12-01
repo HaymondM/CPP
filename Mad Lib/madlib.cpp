@@ -1,6 +1,6 @@
 /***********************************************************************
 * Program:
-*    Project 10, Mad Lib Program
+*     Mad Lib Program
 * Author:
 *    Marshall Haymond
 * Summary: 
@@ -8,7 +8,6 @@
 *    by the user in the file. Then it will display the answers with a story
 *
 *    Estimated:  2.0 hrs   
-*    Actual:     2.0 hrs
 *      The spacing between the words
 ************************************************************************/
 
