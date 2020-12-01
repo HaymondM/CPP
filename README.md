@@ -1,2 +1,2 @@
 # CPP
-Here are some basic C++ projects I have worked on
+Here are some basic C++ projects I have worked on.
