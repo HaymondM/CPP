@@ -5,7 +5,7 @@ This is a prgoram that takes in a text file and will have a user input questions
 # Example Output:
 
 ```
-Please enter the filename of the Mad Lib: example.txt
+Please enter the filename of the Mad Lib: madlibzoo.txt
     Plural noun: Dogs
     Plural noun: Moose
     Type of liquid: Water
