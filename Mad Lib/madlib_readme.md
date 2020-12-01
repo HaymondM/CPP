@@ -4,7 +4,7 @@ This is a prgoram that takes in a text file and will have a user input questions
 
 #Example Output:
 
-'''
+```
 Please enter the filename of the Mad Lib: example.txt
     Plural noun: Dogs
     Plural noun: Moose
@@ -24,6 +24,6 @@ and the turtledoves go "Smack. " My favorite animal is the
 Brown Zebra, so fast it can outrun a/an Monkey. 
 You never know what you will find at the zoo. 
 Do you want to play again (y/n)?
-'''
+```
 
 
