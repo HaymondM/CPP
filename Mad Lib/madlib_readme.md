@@ -1,8 +1,8 @@
-#MadLib
+# MadLib
 
 This is a prgoram that takes in a text file and will have a user input questions based from the text file to make a story.
 
-#Example Output:
+# Example Output:
 
 ```
 Please enter the filename of the Mad Lib: example.txt
